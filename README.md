@@ -2,7 +2,7 @@
  Use pygame similar Terraria
  
 ## Test video
- https://blog.naver.com/arin12349
+ https://blog.naver.com/arin12349/221587191262
  
 ## Manual
 | Key | Action |
